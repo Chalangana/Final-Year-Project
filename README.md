@@ -8,3 +8,6 @@ To automate welding torch activation, I implemented a method using a KY-040 rota
 
 Prototype
 
+![image alt](https://github.com/Chalangana/Final-Year-Project/blob/b5d66177dde9a55e370dfb8e40b6c9af7044274b/Screenshot%202025-07-17%20020245.png)
+
+![image alt](https://github.com/Chalangana/Final-Year-Project/blob/b5d66177dde9a55e370dfb8e40b6c9af7044274b/WhatsApp%20Image%202025-07-17%20at%2001.32.44_dff8ced5.jpg)
