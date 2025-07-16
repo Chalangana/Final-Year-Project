@@ -15,3 +15,15 @@ Prototype
 Control system
 
 ![image alt](https://github.com/Chalangana/Final-Year-Project/blob/43173fb445646ab35c1e38f2c57c2098491dec75/Screenshot%202025-07-17%20020144.png)
+
+Results
+
+![image alt](https://github.com/Chalangana/Final-Year-Project/blob/55218579ff17243d80a1d027b585e5f9876cd464/WhatsApp%20Image%202025-07-09%20at%2006.52.18_0cda25b1.jpg)
+
+![image alt](https://github.com/Chalangana/Final-Year-Project/blob/55218579ff17243d80a1d027b585e5f9876cd464/WhatsApp%20Image%202025-07-09%20at%2006.52.21_0187d1d9.jpg)
+
+![image alt](https://github.com/Chalangana/Final-Year-Project/blob/55218579ff17243d80a1d027b585e5f9876cd464/WhatsApp%20Image%202025-07-09%20at%2006.52.22_1438b3e1.jpg)
+
+![image alt](https://github.com/Chalangana/Final-Year-Project/blob/55218579ff17243d80a1d027b585e5f9876cd464/WhatsApp%20Image%202025-07-09%20at%2007.17.48_a2f3a25a.jpg)
+
+![image alt](https://github.com/Chalangana/Final-Year-Project/blob/55218579ff17243d80a1d027b585e5f9876cd464/WhatsApp%20Image%202025-07-17%20at%2001.35.04_7a176e8d.jpg)
